@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="green_50">#e9f5ee</color>
+    <color name="green_700">#469164</color>
+    <color name="green_800">#408059</color>
+    <color name="green_900">#365f45</color>
+
+    <color name="pink_300">#eb7eb1</color>
+    <color name="pink_500">#e8568d</color>
+
+    <color name="pro_800">#468040</color>
+    <color name="pro_900">#34602f</color>
+
+    <color name="top_300">#8d79a8</color>
+    <color name="top_500">#604585</color>
+
+    <color name="biz_500">#4c7491</color>
+    <color name="biz_700">#315369</color>
+
+
+
+    <color name="white">#FFFFFFFF</color>
+</resources>
